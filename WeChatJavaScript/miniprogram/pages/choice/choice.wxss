@@ -1,0 +1,13 @@
+.container {
+  font-family: Arial, sans-serif;
+  padding: 20px; /* 添加内边距 */
+}
+
+.title {
+  font-size: 18px; /* 增加标题字体大小 */
+  margin-bottom: 10px; /* 添加标题与描述之间的间距 */
+}
+
+.options {
+  margin-top: 20px; /* 添加选项与容器底部之间的间距 */
+}

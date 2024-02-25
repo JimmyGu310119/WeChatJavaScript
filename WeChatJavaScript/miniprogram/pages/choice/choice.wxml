@@ -1,0 +1,8 @@
+<view class="container">
+  <view class="title">看看选啥</view>
+  <view class="options">
+    <button bindtap="onTapIndex1">还没嘞</button>
+    <button bindtap="onTapIndex2">染好啦</button>
+    <button bindtap="onTapCamera">拍个照</button> <!-- 新增按钮 -->
+  </view>
+</view>

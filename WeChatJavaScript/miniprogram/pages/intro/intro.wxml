@@ -1,0 +1,7 @@
+<view class="container">
+  <view class="title">简要介绍</view>
+  <text class="description">本小程序为测试版，仅供内部使用</text>
+  <view class="options">
+    <button bindtap="onTapIndex">我已获悉</button>
+  </view>
+</view>

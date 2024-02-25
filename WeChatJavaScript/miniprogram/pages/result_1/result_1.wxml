@@ -1,0 +1,3 @@
+<view class="container">
+  <view>答案的总和是：{{sum}}</view>
+</view>

@@ -1,0 +1,9 @@
+.container {
+  font-family: Arial, sans-serif;
+}
+#question {
+  margin-bottom: 10px;
+}
+#answer {
+  margin-bottom: 20px;
+}

@@ -1,0 +1,6 @@
+<view class="container">
+  <view id="question">{{question}}</view>
+  <input type="number" id="answer" bindinput="bindKeyInput" min="0" />
+  <button bindtap="previousQuestion">上一题</button>
+  <button bindtap="nextQuestion">提交答案</button>
+</view>
